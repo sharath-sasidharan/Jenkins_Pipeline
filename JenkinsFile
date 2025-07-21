@@ -10,7 +10,7 @@ pipeline{
     }
     stage("Run tests"){
       steps{
-        bat 'npx playwright test'
+        bat 'npx playwright test --reporter=allure-playwright'
       }
     }
     stage("Generate allure report"){
