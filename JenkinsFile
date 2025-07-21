@@ -1,0 +1,22 @@
+pipeline{
+  agent any
+
+  stages{
+    stage('Install Dependencies'){
+      steps{
+        bat 'npm ci'
+        bat 'npx playwright install'
+      }
+    }
+    stage("Run tests"){
+      steps{
+        bat 'npx playwright test'
+      }
+    }
+    stage("Generate allure report"){
+      steps{
+        bat 'npx allure generate allure-results --clean -o allure-report'
+      }
+    } 
+  }
+}
