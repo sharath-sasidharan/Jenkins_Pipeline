@@ -1,0 +1,47 @@
+[
+  {
+    id: 5,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 11,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 13,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+User with email pollard@facebbok.com already exists, skipping insert.
+[
+  {
+    id: 5,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 11,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 13,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+{
+  id: 5,
+  name: 'pollard',
+  email: 'pollard@facebbok.com',
+  role: 'Read-write'
+} user

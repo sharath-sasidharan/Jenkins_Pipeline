@@ -1,0 +1,1 @@
+locator('#productTable tr').first().locator('td:nth-child(2)') tdLocator

@@ -1,0 +1,5 @@
+[
+  { id: 1, name: 'Sarath', email: 'sarath@example.com', role: 'Admin' },
+  { id: 2, name: 'Rheesa', email: 'rheesa@example.com', role: 'User' }
+]
+{ id: 1, name: 'Sarath', email: 'sarath@example.com', role: 'Admin' } user

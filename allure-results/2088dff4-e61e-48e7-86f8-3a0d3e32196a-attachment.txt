@@ -1,0 +1,21 @@
+[
+  {
+    id: 7,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 8,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 12,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+{ id: 7, name: 'paul', email: 'paul@facebbok.com', role: 'Read-write' } user

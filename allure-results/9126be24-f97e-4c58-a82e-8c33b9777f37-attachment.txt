@@ -1,0 +1,15 @@
+Rows affected: 1
+[
+  {
+    id: 4,
+    name: 'Johnny Updated',
+    email: 'jerome@facebbok.com',
+    role: 'Super ADMIN'
+  }
+] ************
+Updated user: {
+  id: 4,
+  name: 'Johnny Updated',
+  email: 'jerome@facebbok.com',
+  role: 'Super ADMIN'
+}

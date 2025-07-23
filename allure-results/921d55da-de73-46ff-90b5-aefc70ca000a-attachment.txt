@@ -1,0 +1,183 @@
+[
+  {
+    id: 5,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 11,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 13,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+User with email pollard@facebbok.com already exists, skipping insert.
+[
+  {
+    id: 5,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 11,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 13,
+    name: 'pollard',
+    email: 'pollard@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+{
+  id: 5,
+  name: 'pollard',
+  email: 'pollard@facebbok.com',
+  role: 'Read-write'
+} user
+[
+  {
+    id: 7,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 8,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 12,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+User with email paul@facebbok.com already exists, skipping insert.
+[
+  {
+    id: 7,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 8,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 12,
+    name: 'paul',
+    email: 'paul@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+{ id: 7, name: 'paul', email: 'paul@facebbok.com', role: 'Read-write' } user
+[
+  {
+    id: 4,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 10,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 15,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+User with email jerome@facebbok.com already exists, skipping insert.
+[
+  {
+    id: 4,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 10,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 15,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+{
+  id: 4,
+  name: 'sam',
+  email: 'jerome@facebbok.com',
+  role: 'Read-write'
+} user
+[
+  {
+    id: 6,
+    name: 'isabel',
+    email: 'isabel@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 9,
+    name: 'isabel',
+    email: 'isabel@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 14,
+    name: 'isabel',
+    email: 'isabel@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+User with email isabel@facebbok.com already exists, skipping insert.
+[
+  {
+    id: 6,
+    name: 'isabel',
+    email: 'isabel@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 9,
+    name: 'isabel',
+    email: 'isabel@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 14,
+    name: 'isabel',
+    email: 'isabel@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+{
+  id: 6,
+  name: 'isabel',
+  email: 'isabel@facebbok.com',
+  role: 'Read-write'
+} user

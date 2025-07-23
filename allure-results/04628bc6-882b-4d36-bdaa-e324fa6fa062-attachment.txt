@@ -1,0 +1,19 @@
+=== Error: Duplicate entry 'mathew@redhat.com' for key 'users.email'
+    at PromiseConnection.execute (D:\JENKINS-PIPELINE\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at insertData (D:\JENKINS-PIPELINE\connection.js:15:37)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at D:\JENKINS-PIPELINE\tests\database.spec.js:10:7
+    at D:\JENKINS-PIPELINE\node_modules\playwright\lib\worker\workerMain.js:304:9
+    at D:\JENKINS-PIPELINE\node_modules\playwright\lib\worker\testInfo.js:289:11
+    at TimeoutManager.withRunnable (D:\JENKINS-PIPELINE\node_modules\playwright\lib\worker\timeoutManager.js:67:14)
+    at TestInfoImpl._runWithTimeout (D:\JENKINS-PIPELINE\node_modules\playwright\lib\worker\testInfo.js:287:7)
+    at D:\JENKINS-PIPELINE\node_modules\playwright\lib\worker\workerMain.js:302:7
+    at WorkerMain._runTest (D:\JENKINS-PIPELINE\node_modules\playwright\lib\worker\workerMain.js:277:5)
+    at WorkerMain.runTestGroup (D:\JENKINS-PIPELINE\node_modules\playwright\lib\worker\workerMain.js:193:11)
+    at process.<anonymous> (D:\JENKINS-PIPELINE\node_modules\playwright\lib\common\process.js:65:22) {
+  code: 'ER_DUP_ENTRY',
+  errno: 1062,
+  sql: 'INSERT INTO users (name, email, role) VALUES (?, ?, ?)',
+  sqlState: '23000',
+  sqlMessage: "Duplicate entry 'mathew@redhat.com' for key 'users.email'"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    id: 4,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 10,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  },
+  {
+    id: 15,
+    name: 'sam',
+    email: 'jerome@facebbok.com',
+    role: 'Read-write'
+  }
+] ************
+{
+  id: 4,
+  name: 'sam',
+  email: 'jerome@facebbok.com',
+  role: 'Read-write'
+} user

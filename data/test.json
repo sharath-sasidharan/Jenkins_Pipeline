@@ -1,0 +1,34 @@
+{
+  "userData": [
+    {
+      "name": "pollard",
+      "email": "pollard@facebbok.com",
+      "role": "Read-write"
+    },
+    {
+      "name": "paul",
+      "email": "paul@facebbok.com",
+      "role": "Read-write"
+    },
+    {
+      "name": "sam",
+      "email": "jerome@facebbok.com",
+      "role": "Read-write"
+    },
+    {
+      "name": "isabel",
+      "email": "isabel@facebbok.com",
+      "role": "Read-write"
+    },
+    {
+      "name": "Mathew",
+      "email": "mathew@redhat.com",
+      "role": "Global Admin"
+    },
+    {
+      "name": "Luke",
+      "email": "luke@redhat.com",
+      "role": "Global Admin"
+    }
+  ]
+}
